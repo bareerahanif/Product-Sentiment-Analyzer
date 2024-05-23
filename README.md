@@ -2,6 +2,8 @@
 
 **ProductSentimentAnalyzer** is a Python-based tool for analyzing product reviews. It uses natural language processing techniques to classify reviews as positive or negative and displays the confidence level of the analysis. The user-friendly interface allows for easy review submission, and an admin section offers secure login, report generation, and data visualization.
 
+This project was developed as a group project by Bareera, Hassan and Areeba. It was created as part of our OOP course to demonstrate the application of natural language processing techniques in sentiment analysis.
+
 ## Features
 
 - **Product Selection:** Users can select a product from a list.
